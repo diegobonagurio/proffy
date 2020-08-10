@@ -13,6 +13,5 @@ Clone este repositório
 
 Acesse a pasta e rode o comando yarn para instalar a dependências
 ``` cd proffy ```
-E em seguida ```yarn```
-
+e em seguida ```yarn```
 
